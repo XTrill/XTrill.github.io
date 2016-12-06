@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://XTrill.github.io
+title: XTrill
+tagline: XTrill - G.A.K.
+description: XTrill's page.
+paginate: 5
